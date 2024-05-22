@@ -1,0 +1,48 @@
+.partition {
+    border: 1px solid #000;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.partition-content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.controls button {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #000;
+    padding: 5px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.vertical-split {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+.horizontal-split {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}

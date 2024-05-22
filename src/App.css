@@ -1,0 +1,15 @@
+.App {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+}
+
+.partition {
+    border: 1px solid #000;
+    position: relative;
+}
+
+.partition button {
+    margin: 5px;
+}
