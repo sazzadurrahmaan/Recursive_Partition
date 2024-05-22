@@ -1,2 +1,2 @@
-# Recursive Partion with random color
+# Recursive Partition with random color
 
