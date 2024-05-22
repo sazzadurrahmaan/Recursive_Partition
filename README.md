@@ -28,6 +28,7 @@
   # 4 Open your browser:
     Navigate to http://localhost:5173/ to see the application in action.
 
-# Here is my another task alphabet tiles repository link :  https://github.com/sazzadurrahmaan/Alphabet-Tiles
+# Here is my another task alphabet tiles' repository link: 
+# https://github.com/sazzadurrahmaan/Alphabet-Tiles
 
   
